@@ -76,11 +76,77 @@ void main() {
 //      var result = x / y;
 // print(result);
 
-var my_set =<String> {'Arman', 'Bangladeshi'};
-my_set.addAll({'Harun','Also'});
-my_set.remove('Arman');
-// var set_It = my_set.elementAt(3);
-// print(set_It);
-print(my_set);
+// var my_set =<String> {'Arman', 'Bangladeshi'};
+// my_set.addAll({'Harun','Also'});
+// my_set.remove('Arman');
+// // var set_It = my_set.elementAt(3);
+// // print(set_It);
+// print(my_set);
+//   var my_set = <String> {'My Name', 'Arman', 'Hasan', 'HR Sohel'};
+//
+//   print(my_set.hashCode);
 
+// var person = new Map();
+// person['name'] = 'Arman';
+// person['age'] = 28;
+// person['city']='Chittagong';
+//
+// person.addAll({'myFriends Name': 'Harun', 'city': 'Rajshahi'});
+//
+// // person.clear();
+//   person.remove('city');
+// print(person);
+//
+// var marks =70;
+//
+//   if(marks>=80){
+//     print("Result is A+");
+//
+//
+// }
+//   else if(marks >70 || marks <80){
+//     print('You got A');
+//   }
+//   else if(marks > 60 || marks <70){
+//     print('You got A-');
+//
+//   }
+//   else{
+//     print('Failed');
+//   }
+
+// var marks =70;
+//
+// switch(marks){
+//   case 80:
+//     print("A+");
+//     break;
+//   case 70:
+//     print('A-');
+//     break;
+//   case 60:
+//     print('A_');
+//     break;
+//   default:
+//     print('Your result was not published');
+
+// }
+/*
+var listOfArr = ['A', 'B', 'C', 'D'];
+for(var i in listOfArr){
+  print(i);
+}
+*/
+
+// Function
+
+
+
+
+
+}
+
+void myFuction(int a, int b) {
+
+  int c = a+b;
 }
